@@ -1,5 +1,6 @@
 .elementor-kit-21 {
-    --headercolor:#ffd913;
+    --headercolor:#e08b0F;
+    --white:white;
     --e-global-color-primary: #86939F;
     --e-global-color-secondary: #30353B;
     --e-global-color-text: #FFFFFF;
@@ -9,9 +10,9 @@
     --e-global-color-4d462f5: #ECF0F0;
     --e-global-color-cfa1f76: #F8FAFA;
     --e-global-color-044b931: #031528;
-    --e-global-color-bb890b8: #30353B;
+    --e-global-color-bb890b8: #e08b0F;
     --e-global-color-639e8dd: #86939F;
-    --e-global-color-7dba3a4: #03E0BF;
+    --e-global-color-7dba3a4: #e08b0F;
     --e-global-typography-primary-font-family: "Manrope";
     --e-global-typography-primary-font-size: 72px;
     --e-global-typography-primary-font-weight: 800;
